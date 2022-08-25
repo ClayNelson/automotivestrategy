@@ -1,17 +1,1188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="CD673ED0-5143-4DAD-A85D-FF5A1959BDAE" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Clays-MacBook-Pro-2" Author="" Modified="2022-08-25 18:58:15 -0400" ModID="C11D4065-201B-4A98-BB9F-9EB56ED28B09">
+<ScrivenerProject Identifier="CD673ED0-5143-4DAD-A85D-FF5A1959BDAE" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Clays-MacBook-Pro-2" Author="" Modified="2022-08-25 19:02:11 -0400" ModID="ABFDC3CF-8482-4567-BD49-CD51FD84A316">
     <Binder>
         <BinderItem UUID="52293EC1-CF22-4B4D-BCFC-75B6CB6573CB" Type="DraftFolder" Created="2012-04-23 20:00:00 -0400" Modified="2012-04-23 20:00:00 -0400">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="29E07039-6769-4AC1-B8E6-E14BF34A2ADF" Type="Text" Created="2022-08-18 14:07:07 -0400" Modified="2022-08-23 19:14:15 -0400">
+                    <Title>Preface</Title>
+                    <MetaData>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>964,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="931097A8-5BB7-491D-AF3D-6083F4AC0E6B" Type="Text" Created="2022-08-18 23:08:58 -0400" Modified="2022-08-23 19:14:49 -0400">
+                    <Title>Contributors</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>140,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EE6C08A6-F239-4F22-B224-976B2145D000" Type="Text" Created="2022-08-23 11:23:00 -0400" Modified="2022-08-24 00:50:51 -0400">
+                    <Title>Executive Summary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2863,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3D584181-3770-4C5C-B537-90AB5C6647B3" Type="Text" Created="2021-07-21 14:29:42 -0400" Modified="2022-08-23 11:22:56 -0400">
+                    <Title>The GitHub for Automotive Story</Title>
+                    <MetaData>
+                        <StatusID>5</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="43D73A68-B1FC-4A4D-A099-5B9D9D56A8AA" Type="Text" Created="2021-10-26 22:21:41 -0400" Modified="2022-08-23 12:54:12 -0400">
+                            <Title>Strategic Questions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>388,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="D0BB3292-5481-4AAA-9F49-FF7C8C98A375" Type="Text" Created="2022-08-18 14:05:53 -0400" Modified="2022-08-22 11:22:37 -0400">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>265,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="EE508054-F72F-4D1C-9041-6791456776B0" Type="Text" Created="2022-08-23 12:53:19 -0400" Modified="2022-08-24 01:30:03 -0400">
+                            <Title>Risks</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>128,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8AFFC251-34C6-4C27-8772-016AC35D8508" Type="Text" Created="2021-10-26 22:35:22 -0400" Modified="2022-08-21 19:19:57 -0400">
+                            <Title>On Competitive Advantage</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>388,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="080D5C92-7E42-4D60-9135-F7C1873049E8" Type="Text" Created="2021-10-27 13:59:51 -0400" Modified="2022-08-24 09:06:48 -0400">
+                            <Title>Industry Trends</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>870,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D4A48858-5CE6-4ACB-812D-8736E1F875FD" Type="Text" Created="2022-08-23 10:38:02 -0400" Modified="2022-08-24 00:50:28 -0400">
+                            <Title>Strategic Questions facing Automotive leaders</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>32,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="08C66115-8469-438D-AE25-0B2DBC340145" Type="Text" Created="2022-08-23 10:08:42 -0400" Modified="2022-08-23 16:13:35 -0400">
+                            <Title>Automotive Ecosystems</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>90,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A3B2599B-06C8-4E1A-AEC2-84E09871F13E" Type="Text" Created="2022-08-19 00:05:07 -0400" Modified="2022-08-23 10:08:44 -0400">
+                            <Title>Automotive Capabilty Requirements</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>176,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="051FB1E2-3F84-42B9-BFC6-3E9897A20AB4" Type="Text" Created="2022-08-18 23:46:36 -0400" Modified="2022-08-23 11:20:13 -0400">
+                            <Title>Assumptions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>17,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="35A0904D-EFC7-454D-9969-B789304C871F" Type="Text" Created="2022-08-21 11:36:37 -0400" Modified="2022-08-23 15:22:18 -0400">
+                            <Title>GitHub Offerings </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="46AB6E70-1AC5-44BF-ADAB-FF294F5089A2" Type="Text" Created="2022-08-23 15:16:57 -0400" Modified="2022-08-23 15:21:57 -0400">
+                                    <Title>GitHub Automotive Coding Standard Compliance </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="000E6766-2E5E-4210-AA09-EA60F1A58E0E" Type="Text" Created="2022-08-23 15:18:01 -0400" Modified="2022-08-23 15:19:06 -0400">
+                                    <Title>GitHub Actions for Embedded Workflows</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="60F2B96F-B01A-4A6C-94BA-88E27AD7C0C4" Type="Text" Created="2022-08-23 15:20:01 -0400" Modified="2022-08-24 00:56:30 -0400">
+                                    <Title>GitHub for Automotive Collaboration</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>153,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="392625E9-37D8-4E32-BFF5-DABBF514D3A9" Type="Text" Created="2022-08-23 13:02:33 -0400" Modified="2022-08-23 13:02:39 -0400">
+                    <Title>Current GTM Plan</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B72AE3F4-B8F7-496E-8DFB-70DA03DF3312" Type="Text" Created="2022-08-23 10:53:02 -0400" Modified="2022-08-23 16:23:09 -0400">
+                            <Title>Current State of Revenue</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="8F65CA36-ABCB-4287-BBDB-686D67ED39D6" Type="Text" Created="2022-08-23 16:23:18 -0400" Modified="2022-08-23 16:23:45 -0400">
+                                    <Title>Connected Industry Players and broader IoT</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="4872A0D7-36E0-4172-808A-1EC232993DCB" Type="Text" Created="2022-08-18 14:04:28 -0400" Modified="2022-08-18 14:04:35 -0400">
+                            <Title>Accomplishments</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="561E325D-6E26-4C19-97B6-D5F8667B5CB6" Type="Text" Created="2021-10-27 14:39:50 -0400" Modified="2022-08-23 15:26:31 -0400">
+                            <Title>MSFT Strategy alignment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>912,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="15896483-A6E7-4B19-8F89-C3DFECBA9D29" Type="Text" Created="2022-08-23 15:44:35 -0400" Modified="2022-08-23 15:44:43 -0400">
+                                    <Title>MSFT IoT and Edge</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="315001CB-BBF6-48D5-8142-02C327FAD5DC" Type="Text" Created="2022-08-18 23:58:38 -0400" Modified="2022-08-18 23:58:51 -0400">
+                            <Title>Product and Offering Gaps</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0F671CC8-2126-4380-BE71-91FFB71CC03A" Type="Text" Created="2022-08-23 16:06:18 -0400" Modified="2022-08-23 16:07:52 -0400">
+                            <Title>OSS and Community</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>260,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="37B4AB8E-84E9-437A-993A-0C2F95D3B08E" Type="Text" Created="2022-08-18 14:06:48 -0400" Modified="2022-08-21 19:31:51 -0400">
+                    <Title>Recommendations</Title>
+                    <MetaData>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="83DED3D9-BC7F-4934-9ECA-48334148DD31" Type="Text" Created="2021-10-26 21:09:03 -0400" Modified="2022-08-21 19:31:58 -0400">
+                            <Title>Resourcs asks</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>170,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9D0C49B3-FB4F-4318-8746-C9B0FD270BFB" Type="Text" Created="2022-08-18 14:03:26 -0400" Modified="2022-08-23 16:06:08 -0400">
+                            <Title>Execution Plan</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>89,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="89CD28D2-2578-4AB1-9334-5D2AB135ABE4" Type="Text" Created="2022-08-18 14:02:48 -0400" Modified="2022-08-23 13:41:44 -0400">
+                    <Title>Glossary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>28,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="38530685-EC2A-402B-B213-EA9D87E76CE1" Type="Text" Created="2022-08-22 12:12:21 -0400" Modified="2022-08-22 12:12:30 -0400">
+                    <Title>References</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>220,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B4C4B1C2-7296-4A33-BFA2-E3B0B0F61F8F" Type="Text" Created="2022-08-23 10:54:09 -0400" Modified="2022-08-23 10:54:12 -0400">
+                    <Title>Appendix</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="95604B5A-14B7-46FC-B0D0-C210A38C624F" Type="Text" Created="2021-10-26 22:52:02 -0400" Modified="2021-10-26 22:56:22 -0400">
+                            <Title>Digital Platforms in automotive</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>50,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>164,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="03B6742E-837E-4BE6-8484-F435606735A5" Type="Text" Created="2021-10-26 23:03:28 -0400" Modified="2022-08-22 12:23:28 -0400">
+                            <Title>Sources of friction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>348,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3C498F0A-8351-4925-A2E1-F8A2B4568812" Type="Text" Created="2022-08-21 11:32:20 -0400" Modified="2022-08-21 11:34:32 -0400">
+                            <Title>Technology Partners</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4E879121-E5C9-490A-BFAB-B5CF5A3CD3EC" Type="Text" Created="2021-10-27 14:34:19 -0400" Modified="2021-10-27 14:34:31 -0400">
+                            <Title>Reference architecture and architecture support</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8EB63BCD-D5B0-41A6-9DAD-2DA77A42BB2F" Type="Text" Created="2022-08-18 23:52:49 -0400" Modified="2022-08-18 23:55:33 -0400">
+                            <Title>Technology Stack</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>104,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="9E7BE5E5-62CD-4B07-BC61-91A06B54AB86" Type="ResearchFolder" Created="2012-04-23 20:00:00 -0400" Modified="2012-04-23 20:00:00 -0400">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="C74A7D42-594F-40CB-904D-96439204AA1D" Type="WebArchive" Created="2022-03-08 14:36:25 -0500" Modified="2022-03-08 14:36:25 -0500">
+                    <Title>Automotive Ecosystems</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://www.peatworks.org/futureofwork/av/autonomous-vehicles-ecosystem/</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="2407E686-CC0C-42CF-927F-001CE08428B3" Type="Text" Created="2021-10-26 20:54:15 -0400" Modified="2021-10-26 21:01:42 -0400">
+                    <Title>Conventional wisdom</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>344,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="02814343-882D-44D6-A880-4CAC925BC262" Type="Text" Created="2021-10-05 16:55:19 -0400" Modified="2021-10-05 16:55:20 -0400">
+                    <Title>FY22 _Automotive_ CEP FY22</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A2CCF869-C7E8-46DB-8CC5-C133A3DEBF5A" Type="Text" Created="2021-10-05 12:41:55 -0400" Modified="2021-10-05 12:42:28 -0400">
+                    <Title>Microsofts Priorities in Automotive</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4E618511-99F0-4530-B3C3-5D0F49C2E8BE" Type="PDF" Created="2021-10-06 22:09:16 -0400" Modified="2021-10-07 15:29:13 -0400">
+                    <Title>10152021 Auto, Mobility SLT paper v8 stakeholder review</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="84591E1E-F5C9-4F4A-BF34-DABA26D40C38"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="6B2CE62F-544D-4644-BB7D-46BD781344C9" Type="PDF" Created="2021-10-05 16:04:29 -0400" Modified="2021-10-05 17:42:29 -0400">
+                    <Title>2020AutomotivePredictions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="AC7FAA83-F651-411F-A5E9-DA6023BF2734" Type="PDF" Created="2021-10-05 16:57:11 -0400" Modified="2021-10-05 16:57:15 -0400">
+                    <Title>accessible_PSFK_Microsoft_FutureOfAutomotive_FINAL_June17</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="70B21E6C-9FB7-4F5C-872C-E6B39A5B2DD2" Type="PDF" Created="2021-10-05 16:05:13 -0400" Modified="2021-10-05 16:05:18 -0400">
+                    <Title>633 - Automotive OTA Ecosystem (1)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="C18AA4B5-6B69-4D32-A5DD-F1E04B3E2613" Type="PDF" Created="2021-10-08 14:33:32 -0400" Modified="2021-10-26 21:08:58 -0400">
+                    <Title>the-case-for-an-end-to-end-automotive-software-platform</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>469,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="5D261D74-0F0F-44F4-83FD-A574E5DA053B"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="FE912954-E9D6-4AF0-AC47-0842695C4AAB" Type="Folder" Created="2021-10-26 21:12:41 -0400" Modified="2021-10-26 21:12:48 -0400">
+                    <Title>On Strategy</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="67A83787-8627-4675-BB0E-78C86C5C8836" Type="Text" Created="2021-10-26 22:33:31 -0400" Modified="2021-10-26 22:46:24 -0400">
+                            <Title>Rethinking Competitive Advantage</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1487,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="05A2FA83-DE8B-4EB7-9A6D-A32926D8F04B" Type="Text" Created="2022-08-21 11:55:52 -0400" Modified="2022-08-21 11:56:24 -0400">
+                            <Title>Thoughts on message</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1794,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="94D29B6F-6BD7-4924-89B0-A9BEDC2E9B09" Type="WebArchive" Created="2022-03-08 14:43:18 -0500" Modified="2022-03-08 14:43:18 -0500">
+                            <Title>Exploring OEM strategic choices</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://medium.com/@ihor.starepravo/automotive-ecosystem-series-chapter-2-exploring-oem-strategic-choices-sealed-open-and-joint-ef541934cda8</OriginalURL>
+                            </MediaSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="3E8F602C-A972-42B6-B621-2FFA30EFF964"/>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="E1ED7399-8455-4972-8DE5-4C1271EB102B" Type="WebArchive" Created="2022-03-08 14:39:43 -0500" Modified="2022-03-08 14:39:43 -0500">
+                            <Title>Automotive Industry Transformation 101</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://medium.com/@ihor.starepravo/automotive-ecosystem-series-automotive-industry-transformation-101-key-features-to-succeed-d73632d12356</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5D3B3418-D986-4785-A7CF-B25CC611215E" Type="Text" Created="2022-08-23 13:47:32 -0400" Modified="2022-08-23 13:47:32 -0400">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C14942D7-EC77-4EBA-A005-4B6E0F6D7F9B" Type="WebArchive" Created="2022-08-23 13:47:58 -0400" Modified="2022-08-23 13:47:58 -0400">
+                            <Title>Digital transformation for Automobile Manufacturers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://medium.com/@ihor.starepravo/automotive-ecosystem-series-chapter-1-digital-transformation-for-automobile-manufacturers-30c553ad47a0</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="5A93622C-D83F-4719-B6B6-5D000CF24CD7" Type="Folder" Created="2021-10-26 21:15:05 -0400" Modified="2021-10-26 21:15:09 -0400">
+                    <Title>GitHub Clients</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="76FAD00C-C32D-4A52-90D3-DBAEE3D8B651" Type="Folder" Created="2021-10-26 22:11:00 -0400" Modified="2021-10-26 22:11:04 -0400">
+                            <Title>BMW</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>B9D3D8B6-2907-4012-9514-D367FB8C9705</SelectedSubdocumentUUIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="ED65C827-DE62-4DF0-8BF0-6C27C5DCD9AB" Type="PDF" Created="2021-10-27 13:43:50 -0400" Modified="2021-10-27 13:43:50 -0400">
+                                    <Title>BMW Storyline</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>pdf</FileExtension>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <CurrentPDFPage>0</CurrentPDFPage>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem UUID="ED03AED5-C861-4818-AD44-90D357100B0C" Type="PDF" Created="2021-10-26 22:06:03 -0400" Modified="2021-10-26 22:06:04 -0400">
+                                    <Title>BMW Taps China Executive as CIO - WSJ</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>pdf</FileExtension>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <CurrentPDFPage>1</CurrentPDFPage>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AD9EC99A-B6F6-4E58-BBEC-4D5F092E28B0" Type="Text" Created="2021-10-26 21:15:19 -0400" Modified="2021-10-26 22:21:23 -0400">
+                                    <Title>BMW </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>35,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2F51A71D-CA18-4B86-8CB8-74E2F1FAEF0C" Type="Text" Created="2021-10-26 22:19:35 -0400" Modified="2021-10-26 22:19:35 -0400">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="98239616-F8AC-432C-9376-A88B95DF8315" Type="Text" Created="2021-10-26 22:13:10 -0400" Modified="2021-10-26 22:13:10 -0400">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="74A6AC5F-DF05-4FB3-8F15-808AF5B05C07" Type="WebArchive" Created="2021-10-26 22:18:25 -0400" Modified="2021-10-26 22:18:25 -0400">
+                                    <Title>Remote Software Upgrade for 1.3 million BMW Vehicles.</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>webarchive</FileExtension>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <OriginalURL>https://www.press.bmwgroup.com/usa/article/detail/T0334224EN_US/remote-software-upgrade-for-1-3-million-bmw-vehicles?language=en_US</OriginalURL>
+                                    </MediaSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="DD90830D-2F84-45AD-B455-6B7758B6A350" Type="Folder" Created="2022-08-22 13:03:27 -0400" Modified="2022-08-22 13:03:30 -0400">
+                            <Title>Ford</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="6A830174-56BE-47AB-B038-A8EA03FCDE59" Type="Text" Created="2022-08-22 13:03:34 -0400" Modified="2022-08-22 13:37:33 -0400">
+                                    <Title>Account Details</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>124,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="67220EEE-C8AD-4D11-9E53-8733431EFEA6" Type="Folder" Created="2022-08-22 12:57:39 -0400" Modified="2022-08-22 12:57:42 -0400">
+                            <Title>Toyota</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="7ECB1CC0-26B9-4B0B-8060-596F98EB709E" Type="Text" Created="2022-08-22 12:57:48 -0400" Modified="2022-08-22 13:00:37 -0400">
+                                    <Title>Account Details</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>147,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="1A621F37-7EB6-4D0B-80BE-99658EF305AE" Type="Folder" Created="2022-08-22 10:20:32 -0400" Modified="2022-08-22 10:20:34 -0400">
+                            <Title>GM</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E398B45E-8708-40AE-ABB8-5A45BB757C8B" Type="Text" Created="2022-08-22 10:20:39 -0400" Modified="2022-08-22 10:20:51 -0400">
+                                    <Title>GM Account Plan</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>68,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="850F2C64-7DEA-47EB-81AD-5AAE4CDE1599" Type="Folder" Created="2022-08-23 13:44:50 -0400" Modified="2022-08-23 13:44:55 -0400">
+                            <Title>Qualcomm</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="2BE78E5A-4399-4E2C-8CBF-02ABE1880564" Type="Folder" Created="2021-10-26 21:15:14 -0400" Modified="2022-08-21 11:45:47 -0400">
+                    <Title>Software Defined Vehicle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="930FE908-15E5-4B63-BD60-9EB5DF67A9A7" Type="Text" Created="2022-08-21 11:45:52 -0400" Modified="2022-08-21 11:46:08 -0400">
+                            <Title>What changes when everything is an API</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>428,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="14E3133A-3657-4F09-86A5-DBD1F441EFBD" Type="Text" Created="2022-08-21 11:46:26 -0400" Modified="2022-08-21 11:46:46 -0400">
+                            <Title>Discussion with Boris Scholl</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1617,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="E92C89B6-8F13-40C5-94FC-024B64574EAC" Type="Folder" Created="2022-08-21 11:34:44 -0400" Modified="2022-08-21 11:35:03 -0400">
+                    <Title>Meetings</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="08B1C840-8F66-4170-94EA-59B4FC327E54" Type="Text" Created="2022-08-21 11:35:23 -0400" Modified="2022-08-21 11:35:44 -0400">
+                            <Title>Vector</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1679,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0EBDF51B-C639-4063-9C60-6EEB4DE83BCC" Type="Text" Created="2022-08-21 11:37:40 -0400" Modified="2022-08-21 11:37:48 -0400">
+                            <Title>Ford</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>866,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="503438B5-F5B4-4AEE-88F7-AD9322C94C11" Type="Text" Created="2022-08-21 11:38:20 -0400" Modified="2022-08-22 10:56:43 -0400">
+                            <Title>ARM</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1214,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="60DD99F5-3C88-4595-85C0-D3403BF792E0" Type="Text" Created="2022-08-21 11:39:00 -0400" Modified="2022-08-21 11:39:12 -0400">
+                            <Title>Microsoft SDV</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>616,0</TextSelection>
+                            </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="03AB7DCC-4B99-4927-A1E2-DF382914C99D"/>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="FF3CD570-BA4E-46B2-B60E-F8703E4461C0" Type="Text" Created="2022-08-21 11:40:09 -0400" Modified="2022-08-21 11:43:38 -0400">
+                            <Title>GM</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3944,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="D54B5007-443E-4C6D-8B2A-FAA298DB5211" Type="Text" Created="2022-08-21 11:44:57 -0400" Modified="2022-08-21 11:45:10 -0400">
+                                    <Title>Bill Thompson</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>532,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="E866DA83-4FBD-4D6E-B4F9-B4885BAD151F" Type="Text" Created="2022-08-21 11:41:06 -0400" Modified="2022-08-21 11:41:12 -0400">
+                            <Title>Cruise</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>879,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="37D085D9-E82E-4E93-B822-CD3FCB697915" Type="Text" Created="2022-08-21 11:41:27 -0400" Modified="2022-08-21 11:41:37 -0400">
+                            <Title>Qualcomm</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2970,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="3CED1DDE-D0A1-4249-9D25-7EDD06D212A7" Type="Text" Created="2022-08-21 11:44:02 -0400" Modified="2022-08-21 11:44:35 -0400">
+                                    <Title>Qualcomm Offerings</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>31,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="7E902B2D-FCD4-4615-97C9-FF7C2D5647B2" Type="Text" Created="2022-08-21 11:42:26 -0400" Modified="2022-08-21 11:43:04 -0400">
+                            <Title>MSFT CSE </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1457,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8505CE4A-A21F-4CE7-92F3-4C066744533C" Type="Text" Created="2022-08-21 11:47:25 -0400" Modified="2022-08-21 11:47:36 -0400">
+                            <Title>Inland</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>292,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F3A64AB1-072C-4A1B-B51D-FBA04012BA99" Type="Text" Created="2022-08-21 11:47:52 -0400" Modified="2022-08-21 11:48:10 -0400">
+                            <Title>TISAX</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>593,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="43822A28-8C96-4274-BBBD-8D4D59565CC1" Type="Folder" Created="2022-08-21 12:33:35 -0400" Modified="2022-08-21 12:33:40 -0400">
+                    <Title>Stories and Metaphors</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="01BECBC5-F3B8-4C3A-8668-AE813CF944DF" Type="Text" Created="2022-08-21 12:33:46 -0400" Modified="2022-08-21 12:33:59 -0400">
+                            <Title>Smart Mirrors</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1636,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E40F278C-925D-49DB-96BE-862BCA13BF02" Type="Text" Created="2022-08-21 19:29:54 -0400" Modified="2022-08-21 19:30:53 -0400">
+                            <Title>Key based personalization to cloud based personalization</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="E0B58ABF-78D6-4F5B-B7A3-BE514202C28C" Type="Text" Created="2022-08-21 18:11:52 -0400" Modified="2022-08-21 18:12:28 -0400">
+                    <Title>The Information's 5th annual Autonomous Vehicles Summit</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3453,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="03AB7DCC-4B99-4927-A1E2-DF382914C99D"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="35B448AD-F751-43EA-8CB4-1B89F0123DEF" Type="Folder" Created="2022-08-21 18:30:34 -0400" Modified="2022-08-21 18:30:40 -0400">
+                    <Title>Cloud Native Future</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="080CC022-F772-493A-B8DE-6B3161AC9641" Type="WebArchive" Created="2022-08-21 18:24:03 -0400" Modified="2022-08-21 18:24:03 -0400">
+                            <Title>Arm Says Its New Cloud-Enabled IoT Platform Carves 2 Years Off IoT Product Development</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://www.enterpriseai.news/2021/10/18/arm-unveils-new-cloud-enabled-iot-platform-that-carves-2-years-off-iot-product-development/</OriginalURL>
+                            </MediaSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="03AB7DCC-4B99-4927-A1E2-DF382914C99D"/>
+                            </Bookmarks>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="841E9E2B-20EB-415F-BFFB-7303D1E479D4" Type="Folder" Created="2022-08-21 23:35:42 -0400" Modified="2022-08-21 23:35:48 -0400">
+                    <Title>CICD</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="882B4A50-BDE4-4A7B-A627-D42B56362480" Type="WebArchive" Created="2022-08-21 23:36:25 -0400" Modified="2022-08-21 23:36:25 -0400">
+                            <Title>The Business Value of CI/CD</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://codete.com/blog/business-value-of-ci-cd</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="275C4DC4-E55C-40E4-A864-EC375AC95DDB" Type="PDF" Created="2022-08-21 23:40:22 -0400" Modified="2022-08-22 00:00:38 -0400">
+                            <Title>civalue</Title>
+                            <MetaData>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>290,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>59</CurrentPDFPage>
+                            </MediaSettings>
+                            <Keywords>
+                                <KeywordID>0</KeywordID>
+                            </Keywords>
+                            <Children>
+                                <BinderItem UUID="88655BEA-5E4B-4F8D-B571-787FADC78096" Type="Text" Created="2022-08-22 00:04:17 -0400" Modified="2022-08-22 00:04:43 -0400">
+                                    <Title>Continuous integration study map</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="66BA7EBA-5FE8-4902-85DC-ED1CC12E4866" Type="WebArchive" Created="2022-08-22 10:26:57 -0400" Modified="2022-08-22 10:26:57 -0400">
+                            <Title>Evidence and case studies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://continuousdelivery.com/evidence-case-studies/</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="738E486E-E259-437C-BBBB-408BCA3A6ADA" Type="PDF" Created="2022-08-22 11:23:49 -0400" Modified="2022-08-22 11:23:52 -0400">
+                            <Title>buildqualityin</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>17</CurrentPDFPage>
+                            </MediaSettings>
+                            <Children>
+                                <BinderItem UUID="67F02162-C232-4FAB-9647-94CF8D42601C" Type="Text" Created="2022-08-22 11:34:51 -0400" Modified="2022-08-22 11:38:29 -0400">
+                                    <Title>Notes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>347,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="9A27CAE5-B57B-4C19-AB5B-AAE32E050CDC" Type="PDF" Created="2022-08-22 12:03:57 -0400" Modified="2022-08-22 12:07:00 -0400">
+                            <Title>Continuous_Integration_in_Validation_of_Modern_Complex_Embedded_Systems</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>1,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="FF6E8AD2-5C54-4026-8EF2-D268625C3F86"/>
+                            </Bookmarks>
+                            <Children>
+                                <BinderItem UUID="900C3200-9751-4318-B1A3-DB01B080F274" Type="Text" Created="2022-08-22 12:07:57 -0400" Modified="2022-08-22 12:09:40 -0400">
+                                    <Title>Notes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>441,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="40440B79-CAE2-4594-8F93-65991339E394" Type="Text" Created="2022-08-22 12:13:03 -0400" Modified="2022-08-22 12:22:25 -0400">
+                            <Title>Challenges</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>796,0</TextSelection>
+                            </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="9587B5DC-C38F-43D0-9F2F-193A0497F335"/>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="98F79702-84DC-4691-AD45-911D8961E9C3" Type="PDF" Created="2022-08-22 18:54:40 -0400" Modified="2022-08-22 19:03:17 -0400">
+                            <Title>Continuous_Software_Engineering_of_Innovative_Automotive_Functions_An_Industrial_Perspective</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="028A9E29-D95E-4B14-A029-C6C11A03CBE0" Type="PDF" Created="2022-08-22 18:53:43 -0400" Modified="2022-08-22 19:03:06 -0400">
+                            <Title>Continuous_Integration_Impediments_in_Large-Scale_Industry_Projects</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="6DD0F42A-E917-421B-A8BF-AA1A583A36A7" Type="Folder" Created="2022-08-22 13:56:47 -0400" Modified="2022-08-22 13:56:51 -0400">
+                    <Title>AutoSAR</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A6551462-F8E8-413F-AC7F-3B4C24143F46" Type="Text" Created="2022-08-22 13:56:58 -0400" Modified="2022-08-22 13:57:48 -0400">
+                            <Title>IEEE Articles I'm reviewing to purchase</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>321,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F5165D5D-711E-4039-81C0-238AE62504AB" Type="Text" Created="2022-08-22 13:58:31 -0400" Modified="2022-08-22 13:59:24 -0400">
+                            <Title>Adaptive Real-Time Operating System in Automotive Multicore Embedded Systems</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>308,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="066BC043-3382-4519-A408-789072A78188" Type="Text" Created="2022-08-22 13:59:44 -0400" Modified="2022-08-22 14:00:04 -0400">
+                            <Title>Work-in-progress: combining control flow checking for safety and security in embedded so!ware</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>211,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8A400ED2-F8DB-40DA-8B78-AB5C5212A9D8" Type="Text" Created="2022-08-22 14:01:59 -0400" Modified="2022-08-22 14:02:49 -0400">
+                            <Title>Innovation Welcome: An Agile Approach to Model-Based Development of Safety-Critical Embedded Systems</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>328,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="138CAFED-BA1A-4BD8-B09A-479589AF2BA0" Type="Folder" Created="2022-08-22 18:55:37 -0400" Modified="2022-08-22 18:55:50 -0400">
+                    <Title>IEEE</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="003B263D-DA4D-4E53-AAC5-A503B010F613" Type="PDF" Created="2022-08-22 18:54:59 -0400" Modified="2022-08-22 19:03:28 -0400">
+                            <Title>Simulation-Based_Embedded_Agile_Development</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A2C4D80A-0902-4137-AA97-1344B0524697" Type="PDF" Created="2022-08-22 18:54:47 -0400" Modified="2022-08-22 19:03:23 -0400">
+                            <Title>System__Software_Architecture_for_Autonomous_Driving_Systems</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D5017B21-135A-478F-B477-B47CD8EECE98" Type="PDF" Created="2022-08-22 18:54:31 -0400" Modified="2022-08-22 19:03:12 -0400">
+                            <Title>Requirements_Engineering_Challenges_in_Large-Scale_Agile_System_Development</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="E60FC426-3F29-4047-9F31-D4D7455C0000" Type="Folder" Created="2022-08-23 13:44:13 -0400" Modified="2022-08-23 13:44:22 -0400">
+                    <Title>Automotive Ecosystems and Economics</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="922F8F4D-9BEE-4271-A14B-1386AAA93AC2" Type="WebArchive" Created="2022-03-08 14:48:01 -0500" Modified="2022-03-08 14:48:01 -0500">
+                            <Title>Industry Alliances in Domains</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://www.tttech-auto.com/industry-guide-for-coordinating-safe-autonomous-driving-released/</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D2EF1640-D116-42CB-B762-94EF4A8D4766" Type="Folder" Created="2022-08-23 15:02:39 -0400" Modified="2022-08-23 15:02:44 -0400">
+                    <Title>Economics</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="C44FC38E-3691-4B58-9D68-BAF2B468A5AB" Type="WebArchive" Created="2022-08-23 15:03:14 -0400" Modified="2022-08-23 15:03:14 -0400">
+                            <Title>Making EVs Profitable McKinsey</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/making-electric-vehicles-profitable</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="01215AD5-280B-4D30-97AF-9B4738FFE2BE" Type="WebArchive" Created="2022-08-23 15:06:04 -0400" Modified="2022-08-23 15:06:04 -0400">
+                            <Title>Tesla Makes More Money Than GM and Ford</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://www.thestreet.com/technology/tesla-makes-more-money-than-gm-and-ford</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="07950F0E-B32D-4D9A-AAC1-E57A3C42663E" Type="WebArchive" Created="2022-08-23 15:10:17 -0400" Modified="2022-08-23 15:10:17 -0400">
+                            <Title>Unit Economics</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://twitter.com/forwardcap/status/1464961284672307209</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem UUID="58E3AAF9-5054-4313-9ABD-6200F3B64F2D" Type="TrashFolder" Created="2012-04-23 20:00:00 -0400" Modified="2012-04-23 20:00:00 -0400">
             <Title>Trash</Title>
@@ -28,6 +1199,12 @@
             <Title>Search Results</Title>
         </Collection>
     </Collections>
+    <Keywords>
+        <Keyword ID="0">
+            <Title>CI</Title>
+            <Color>0.943039 0.654989 0.986895</Color>
+        </Keyword>
+    </Keywords>
     <SectionTypes>
         <TypeDefinitions>
             <Type ID="B5E1D283-3970-49DE-BA0E-9C0DC6E52B98">Heading</Type>
@@ -65,12 +1242,13 @@
             <Status ID="2">Revised Draft</Status>
             <Status ID="3">Final Draft</Status>
             <Status ID="4">Done</Status>
+            <Status ID="5">In Progress</Status>
         </StatusItems>
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2012-04-23 20:00:00 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2022-08-26 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-08-25 18:58:07 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2022-08-25 19:00:01 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2022-08-25 18:58:07 -0400">
         <DraftWordCount>0</DraftWordCount>
