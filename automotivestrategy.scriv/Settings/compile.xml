@@ -3,6 +3,7 @@
     <ProjectSettings>
         <Content Scope="Included">
             <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>DEADBEEF-0000-0000-0000-000000000000</CollectionID>
                 <Label>-1</Label>
                 <Status>-1</Status>
             </Filter>
@@ -13,7 +14,7 @@
             <ResampleImages DPI="72">No</ResampleImages>
             <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
             <PDF>
-                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Cover Source="FrontMatter" Bleed="9.0" BleedUnits="pt"/>
                 <Compression Enabled="No">
                     <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
                     <ImageResolution>150</ImageResolution>
@@ -42,9 +43,6 @@
         <MetaData>
             <ProjectTitle>automotivestrategy</ProjectTitle>
             <ProjectAbbreviatedTitle>automotivestrategy</ProjectAbbreviatedTitle>
-            <Authors>
-                <Author Role="aut"></Author>
-            </Authors>
             <EbookLanguage>en</EbookLanguage>
             <FountainTitlePageMetaData>
                 <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
@@ -64,6 +62,15 @@
                 <Type ID="EE5BA12E-3141-4E2F-A9CB-2B1A0878D556">TEXT-SECTION</Type>
             </SectionLayouts>
         </Format>
+        <Format ID="outline-document">
+            <SectionLayouts>
+                <Type ID="B5E1D283-3970-49DE-BA0E-9C0DC6E52B98">AS-IS</Type>
+                <Type ID="CE9AFC05-4D36-4E79-8579-C48D480BA7E7">AS-IS</Type>
+                <Type ID="EE5BA12E-3141-4E2F-A9CB-2B1A0878D556">AS-IS</Type>
+            </SectionLayouts>
+        </Format>
     </FormatSettings>
-    <LastUsedFormats/>
+    <LastUsedFormats>
+        <Print>modern-ms</Print>
+    </LastUsedFormats>
 </CompileSettings>
